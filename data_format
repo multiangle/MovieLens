@@ -1,0 +1,18 @@
+--------------------------------------
+ratings.csv
+user_id, movie_id, rating, timestamp
+--------------------------------------
+tags.csv
+user_id, movie_id, tag, timestamp
+--------------------------------------
+movies.csv
+movie_id, title, year, genres(movie types)
+--------------------------------------
+links.csv (not imported yet)
+movie_id, midb_id, tmdb_id
+--------------------------------------
+genone-tags.csv
+tag_id, tag
+--------------------------------------
+genone-scores.csv
+movie_id, tag_id, relevance
